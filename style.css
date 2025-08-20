@@ -1,0 +1,6 @@
+body {
+    background-image: url("");
+    background-size: cover;   /* Faz a imagem ocupar toda a tela */
+    background-position: center; /* Centraliza */
+    background-attachment: fixed; /* Fica fixo quando rola a página */
+}
